@@ -22,6 +22,10 @@ Ejecuta `ng test` para ejecutar las pruebas unitarias a través de [Karma](https
 
 Ejecuta `ng e2e` para ejecutar las pruebas end-to-end mediante la plataforma de tu elección. Para usar este comando, primero debes agregar un paquete que implemente capacidades de pruebas end-to-end.
 
+## Repositorio del servidor
+
+Puedes encontrar el código del servidor en el siguiente repositorio: [Servidor en GitHub](https://github.com/miltonAlan/realtime-chat-app-angular-server)
+
 ## Más ayuda
 
 Para obtener más ayuda sobre Angular CLI usa `ng help` o visita la [página de Angular CLI](https://angular.io/cli).
